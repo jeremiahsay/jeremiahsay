@@ -1,22 +1,46 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/greencalculus/.github/main/profile/assets/greencalculus-logo.png" width="72" height="72" alt="GreenCalculus" />
+
 # Jeremiah Say
 
-**Lead Systems Architect — Carbon Accounting & Environmental Calculation Engines**
+### Lead Systems Architect — Carbon Accounting & Environmental Calculation Engines
 
-I build high-precision, GHG Protocol-aligned calculation infrastructure. Currently building [GreenCalculus](https://greencalculus.com) — an enterprise platform of 1,000+ carbon and environmental calculators for sustainability officers, engineers, and corporate compliance teams.
+**I build carbon math you can audit.**
+
+[greencalculus.com](https://greencalculus.com) · [GitHub org](https://github.com/greencalculus) · [About](https://greencalculus.com/about/jeremiah-say/) · [LinkedIn](https://www.linkedin.com/in/jeremiahsay/)
+
+![GHG Protocol](https://img.shields.io/badge/GHG_Protocol-Corporate_·_Scope_3_·_LSR_2026-04BF62?style=flat-square)
+![IPCC AR6](https://img.shields.io/badge/IPCC_AR6-GWP--100-04BF62?style=flat-square)
+![CSRD](https://img.shields.io/badge/CSRD-ESRS_E1-04BF62?style=flat-square)
+![SBTi](https://img.shields.io/badge/SBTi-Net--Zero-04BF62?style=flat-square)
+![PCAF](https://img.shields.io/badge/PCAF-Financed_Emissions-04BF62?style=flat-square)
+![ISO 14064-1](https://img.shields.io/badge/ISO-14064--1-04BF62?style=flat-square)
+
+</div>
 
 ---
 
-## What I work on
+I build high-precision, GHG Protocol-aligned calculation infrastructure. I'm the architect of
+[GreenCalculus](https://greencalculus.com) — the traceable reference layer for corporate carbon
+accounting, where every result resolves to a published emission factor and a named standard.
 
-**[GreenCalculus.com](https://greencalculus.com)** — Enterprise carbon calculator platform mapped against 16 active global standards.
+## What I'm building
 
-- Calculation engine architecture (Vanilla JS, zero dependencies, modern CSS `@layer`)
-- Master Brain data layer — curated emission factor dataset spanning IEA 2026 grid factors, DEFRA / DESNZ 2025, EPA eGRID, ICE database, and AR6 + AR5 GWP values
-- Schema.org structured data — `WebApplication`, `Dataset`, `HowTo`, `Article` JSON-LD across every calculator
-- CSS `@layer` architecture, fluid `clamp()` typography, JetBrains Mono with `tabular-nums` for numerical stability
-- E-E-A-T-aligned editorial standards — every calculator backed by a methodology page and version-tracked references
+**[GreenCalculus.com](https://greencalculus.com)** — a carbon-calculator platform mapped against 16 active global standards, where the math is built to be checked, not just trusted.
 
----
+- **Master Brain data layer** — a single, versioned, parity-tested source of truth for every emission factor, spanning IEA 2026 grid factors, DEFRA / DESNZ 2025, EPA eGRID, the ICE database, and AR6 + AR5 GWP values. The same factor feeds every calculator and the underlying API, so the numbers can't disagree with themselves.
+- **Calculation engine architecture** — Vanilla JS, zero dependencies, modern CSS `@layer`, fluid `clamp()` typography, JetBrains Mono with `tabular-nums` for numerical stability.
+- **Structured data** — `WebApplication`, `Dataset`, `HowTo`, and `Article` JSON-LD across every calculator for machine-readable provenance.
+- **An auditable trust layer** — every calculator is backed by a methodology page and version-tracked references, with each value change logged in a public changelog.
+
+## How I think about carbon math
+
+The discipline is small; the principles are what matter.
+
+- **Traceability over trust.** A number a sustainability lead can hand to an auditor — who can then follow it all the way back to the source factor and the standard — beats a number that's merely "close."
+- **One source of truth.** Factors live in one versioned store, never copied into the calculators that consume them. A value change is a tracked, auditable event, not a find-and-replace.
+- **Fail-soft, never wrong-but-plausible.** An unrecognised input degrades visibly. The one outcome a carbon tool must never produce is a confident, wrong answer.
 
 ## Open methodology work
 
@@ -26,9 +50,7 @@ I publish formal open-methodology documentation under the GreenCalculus organisa
 |---|---|
 | [`greencalculus/greencalculus-standards`](https://github.com/greencalculus/greencalculus-standards) | Open methodology mapping for 16 global GHG accounting standards |
 | [`greencalculus/greencalculus-methodology`](https://github.com/greencalculus/greencalculus-methodology) | Formal methodology, emission factor datasets, GHG Protocol alignment docs |
-| [`greencalculus/greencalculus-calculator-demo`](https://github.com/greencalculus/greencalculus-calculator-demo) | Live demo — Scope 1 stationary combustion calculator, zero dependencies |
-
----
+| [`greencalculus/greencalculus-calculator-demo`](https://github.com/greencalculus/greencalculus-calculator-demo) | Open-source, zero-dependency calculator demos — Scope 1 combustion, SBTi targets, FLAG, PCAF financed emissions |
 
 ## Standards I work with
 
@@ -77,14 +99,13 @@ The full set of standards that underpin the GreenCalculus platform. Live referen
 - Professional Guide to Sustainability Reporting (Tinto Group)
 - Independent advisor on corporate GHG accounting infrastructure
 
----
+## Open to
 
-## Links
+Standards corrections · methodology collaboration · advisory on corporate GHG accounting infrastructure.
 
 - 🌐 [GreenCalculus.com](https://greencalculus.com) — main platform
 - 📚 [GreenCalculus on GitHub](https://github.com/greencalculus) — open methodology repos
-- 👤 [About page](https://greencalculus.com/about/jeremiah-say/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeremiahsay/)
+- 👤 [About](https://greencalculus.com/about/jeremiah-say/) · 💼 [LinkedIn](https://www.linkedin.com/in/jeremiahsay/)
 - 📧 jeremiah@greencalculus.com
 
 ---
