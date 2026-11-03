@@ -52,7 +52,7 @@ Most of what I publish openly is under the [GreenCalculus organisation](https://
 | [`greencalculus-mcp`](https://github.com/greencalculus/greencalculus-mcp) · [`greencalculus-sdk`](https://github.com/greencalculus/greencalculus-sdk) · [`langchain-greencalculus`](https://github.com/greencalculus/langchain-greencalculus) | Ways to call the emission-factor API from AI agents, Python and JavaScript. |
 | [`greencalculus-standards`](https://github.com/greencalculus/greencalculus-standards) · [`greencalculus-methodology`](https://github.com/greencalculus/greencalculus-methodology) · [`greencalculus-open-data`](https://github.com/greencalculus/greencalculus-open-data) | Methodology, standards mapping and source licences, CC-BY-4.0. |
 
-**Open data from Who Actually Makes:** every list behind the site (NHTSA tire plant codes, tire age advice from the makers, and every quote it cites) is free to download as [JSON or CSV under CC BY 4.0](https://whoactuallymakes.com/data/), with stable URLs you can call from code.
+**Open data from Who Actually Makes:** every list behind the site (which company makes each Kirkland Signature product, NHTSA tire plant codes, tire age advice from the makers, and every quote it cites) is free to download as [JSON or CSV under CC BY 4.0](https://whoactuallymakes.com/data/), with stable URLs you can call from code. A daily mirror with the full change history: [jeremiahsay/whoactuallymakes-data](https://github.com/jeremiahsay/whoactuallymakes-data).
 
 <details>
 <summary><b>Carbon accounting standards I work with</b></summary>
