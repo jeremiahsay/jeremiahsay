@@ -7,7 +7,7 @@
 **I build sites that turn public records into sourced, checkable answers.**
 If a number can't be traced to its source, it doesn't ship.
 
-[GreenCalculus](https://greencalculus.com) · [Numbers.sg](https://numbers.sg) · [Who Actually Makes](https://whoactuallymakes.com) · [PerBowl](https://perbowl.com) · [GraciousQuotes](https://graciousquotes.com) · [Toggle9](https://toggle9.com)
+[GreenCalculus](https://greencalculus.com) · [Numbers.sg](https://numbers.sg) · [Who Actually Makes](https://whoactuallymakes.com) · [PerBowl](https://perbowl.com) · [GraciousQuotes](https://graciousquotes.com) · [Toggle9](https://toggle9.com) · [QuitWithNerd](https://quitwithnerd.com)
 
 [LinkedIn](https://www.linkedin.com/in/jeremiahsay/) · [ORCID](https://orcid.org/0009-0009-2025-7691) · [Wikidata](https://www.wikidata.org/wiki/Q140289441)
 
@@ -27,8 +27,9 @@ Each site has a page about my role there: what I check, how I check it, and wher
 | **[PerBowl](https://perbowl.com)** | learn who makes your dog or cat food | Pet food brands traced to the companies and plants behind them, with FDA inspection and recall records and free same-day recall alerts. | [Founder & editor](https://perbowl.com/about/jeremiah-say/) |
 | **[GraciousQuotes](https://graciousquotes.com)** | check who really said a quote | A quotes site I started in February 2020. My main job there is checking who really said each quote, showing the source, and logging corrections in public. | [Founder & editor](https://graciousquotes.com/about/jeremiah-say/) |
 | **[Toggle9](https://toggle9.com)** | use a calculator that shows its working | Free calculators and tools. No sign-up, and each tool is dated with when I last checked it against its sources. | [Creator](https://toggle9.com/about/jeremiah-say/) |
+| **[QuitWithNerd](https://quitwithnerd.com)** | get help quitting smoking or vaping | My personal site, started in June 2019, 19 days after my last cigarette, following 17 years of smoking. Guides to quitting and staying quit, built from my own experience and checked against health agency sources. | [Founder & editor](https://quitwithnerd.com/about/) |
 
-All six are published by **[Numbers Publishing Pte. Ltd.](https://numbers.sg/company/)**, a Singapore private company (UEN 202500357K) that I own and run. You can look it up by its UEN in ACRA's business registry. No bank, brand, advertiser or investor owns any part of it.
+The first six are published by **[Numbers Publishing Pte. Ltd.](https://numbers.sg/company/)**, a Singapore private company (UEN 202500357K) that I own and run. You can look it up by its UEN in ACRA's business registry. No bank, brand, advertiser or investor owns any part of it. QuitWithNerd is a personal site I run myself.
 
 ## The rule they share
 
