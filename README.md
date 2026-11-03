@@ -79,7 +79,7 @@ Live reference pages are on [greencalculus.com/standards](https://greencalculus.
 - Singapore Institute of Technology graduate
 - Former maths tutor, which is why my tools show their working
 - Professional Guide to Sustainability Reporting (Tinto Group)
-- [Wikipedia contributor](https://en.wikipedia.org/wiki/User:Jeremiahsay) on GHG Protocol, IPCC AR6, life-cycle assessment and CSRD articles
+- [Wikipedia contributor](https://en.wikipedia.org/wiki/User:Jeremiahsay) on GHG Protocol, IPCC AR6, life-cycle assessment and CSDDD articles
 
 ## Get in touch
 
